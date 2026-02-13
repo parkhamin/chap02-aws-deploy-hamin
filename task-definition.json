@@ -74,7 +74,7 @@
     }
   ],
   "family": "chap02-task-definition-hamin",
-  "executionRoleArn": "arn:aws:iam::851725437767:role/ecsTaskExecutionRole",
+  "executionRoleArn": "arn:aws:iam::503437077353:role/ecsTaskExecutionRole",
   "networkMode": "bridge",
   "volumes": [],
   "placementConstraints": [],
